@@ -2,7 +2,7 @@
   "name": "counterapp",
   "private": true,
   "version": "0.0.0",
-  "type": "modul",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
